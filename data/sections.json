@@ -29,13 +29,13 @@
             "type": "column",
             "locales": {
                 "en": {
-                    "title": "*Education* Background",
+                    "title": "*Education*",
                     "title_short": null,
                     "description": null,
                     "nav_label": "Education"
                 },
                 "fr": {
-                    "title": "Parcours *Éducatif*",
+                    "title": "*Formation*",
                     "title_short": null,
                     "description": null,
                     "nav_label": "Éducation"
