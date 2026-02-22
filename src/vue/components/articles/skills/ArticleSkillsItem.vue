@@ -163,6 +163,7 @@ div.skills-item-icon {
         ));
 
         border: 4px solid $default-section-background;
+        box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.1);
     }
 
     &-shrink {

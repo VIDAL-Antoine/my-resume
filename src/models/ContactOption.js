@@ -51,6 +51,20 @@ export default class ContactOption {
         return this._href
     }
 
+    /**
+     * @param {Function} localizationClosure
+     * @return {String|null}
+     */
+    getHref(localizationClosure) {
+        if (localizationClosure) {
+            const localizedHref = localizationClosure(this._locales, "href", true)
+            if (localizedHref) {
+                return localizedHref.startsWith("/") ? utils.resolvePath(localizedHref) : localizedHref
+            }
+        }
+        return this._href
+    }
+
     /** @return {Boolean} */
     get copy() {
         return this._copy || false

@@ -1,23 +1,14 @@
 {
-    "name": "Roy Sheppard",
-    "profilePictureUrl": "images/pictures/avatar.jpg",
+    "name": "VIDAL Antoine",
+    "profilePictureUrl": "images/pictures/profile-square.jpg",
     "locales": {
         "en": {
-            "credits": "Designed by <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "UX Designer"
-        },
-        "es": {
-            "credits": "Hecho por <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "Designer de UX"
+            "credits": "",
+            "role": "Full-stack Software Engineer"
         },
         "fr": {
-            "credits": "Conçu par <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "Designer UX"
-        },
-        "zh": {
-            "name": "罗伊谢帕德",
-            "credits": "设计：<strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "用户体验设计师"
+            "credits": "",
+            "role": "Ingénieur développeur full-stack"
         }
     },
     "contactOptions": [
@@ -27,66 +18,45 @@
             "href": null,
             "locales": {
                 "en": {
-                    "value": "123 Main Street, Cupertino, CA 01234",
-                    "valueShort": "Cupertino – CA"
-                },
-                "es": {
-                    "valueShort": "California – EE.UU."
+                    "value": "Massy - France",
+                    "valueShort": "Massy - France"
                 },
                 "fr": {
-                    "valueShort": "Californie – États-Unis"
-                },
-                "zh": {
-                    "valueShort": "美国加州"
+                    "value": "Massy - France",
+                    "valueShort": "Massy - France"
                 }
             }
         },
         {
             "id": "email",
-            "value": "roy.sheppard@genius.com",
-            "valueShort": "roy.sheppard@genius.com",
+            "value": "avidal78390@gmail.com",
+            "valueShort": "avidal78390@gmail.com",
             "faIcon": "fa-regular fa-envelope",
-            "href": "mailto:roy.sheppard@genius.com",
+            "href": "mailto:avidal78390@gmail.com",
             "copy": true
         },
         {
-            "id": "facebook",
-            "value": "Roy Sheppard",
-            "valueShort": "Roy S.",
-            "faIcon": "fa-brands fa-facebook",
-            "href": "https://facebook.com",
-            "copy": false
-        },
-        {
             "id": "github",
-            "value": "@roy.sheppard.official",
-            "valueShort": "@roy.sheppard.official",
+            "value": "@VIDAL-Antoine",
+            "valueShort": "@VIDAL-Antoine",
             "faIcon": "fa-brands fa-github",
-            "href": "https://github.com",
-            "copy": false
-        },
-        {
-            "id": "instagram",
-            "value": "@roy.sheppard.official",
-            "valueShort": "@roy.sheppard.official",
-            "faIcon": "fa-brands fa-instagram",
-            "href": "https://instagram.com",
+            "href": "https://github.com/VIDAL-Antoine",
             "copy": false
         },
         {
             "id": "linkedin",
-            "value": "@roy.sheppard.official",
-            "valueShort": "@roy.sheppard.official",
+            "value": "@VIDAL-Antoine",
+            "valueShort": "@VIDAL-Antoine",
             "faIcon": "fa-brands fa-linkedin",
-            "href": "https://linkedin.com",
+            "href": "https://www.linkedin.com/in/antoine-vidal-40419822a/",
             "copy": false
         },
         {
             "id": "phone",
-            "value": "+1 (123) 456-7890",
-            "valueShort": "(123) 456-7890",
-            "faIcon": "fa-brands fa-whatsapp",
-            "href": "tel:1234567890",
+            "value": "+33 6 49 42 42 23",
+            "valueShort": "+33649424223",
+            "faIcon": "fa-solid fa-phone",
+            "href": null,
             "copy": true
         },
         {
@@ -94,7 +64,15 @@
             "value": "",
             "valueShort": "",
             "faIcon": "fa-solid fa-file-pdf",
-            "href": "/pdf/resume.pdf",
+            "href": null,
+            "locales": {
+                "en": {
+                    "href": "/pdf/CV_VIDAL_Antoine_en.pdf"
+                },
+                "fr": {
+                    "href": "/pdf/CV_VIDAL_Antoine_fr.pdf"
+                }
+            },
             "copy": false
         }
     ]
