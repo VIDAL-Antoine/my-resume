@@ -24,7 +24,7 @@
                     "fallbackFaIconColor": null,
                     "locales": {
                         "en": {
-                            "title": "Computer Science Engineering Degree",
+                            "title": "Master's Degree in Computer Science",
                             "description": "5-year engineering program covering a broad range of computer science disciplines.",
                             "province": "Vélizy",
                             "country": "France",
@@ -45,7 +45,7 @@
                             ]
                         },
                         "fr": {
-                            "title": "Diplôme d'Ingénieur Informatique",
+                            "title": "Diplôme d'ingénieur en informatique",
                             "description": "Programme d'ingénieur de 5 ans couvrant un large éventail de disciplines informatiques.",
                             "province": "Vélizy",
                             "country": "France",
@@ -82,8 +82,8 @@
                     "fallbackFaIconColor": null,
                     "locales": {
                         "en": {
-                            "title": "Master's in High Performance Computing",
-                            "description": "Double degree obtained in parallel with the Engineering degree, focusing on large-scale computing.",
+                            "title": "Master's Degree in High Performance Computing",
+                            "description": "Double degree obtained in parallel with the Computer Science Degree, focusing on large-scale computing.",
                             "province": "Guyancourt",
                             "country": "France",
                             "institution": "LI-PaRAD, UVSQ Paris-Saclay",
@@ -95,7 +95,7 @@
                             ]
                         },
                         "fr": {
-                            "title": "Master Calcul Haute Performance",
+                            "title": "Master en calcul haute performance",
                             "description": "Double diplôme obtenu en parallèle du cursus ingénieur, axé sur le calcul à grande échelle.",
                             "province": "Guyancourt",
                             "country": "France",
