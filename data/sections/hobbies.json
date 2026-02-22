@@ -1,0 +1,66 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {
+                    "title": null
+                },
+                "fr": {
+                    "title": null
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 1,
+                "transparent_item_icon_background": false,
+                "small_icons": true,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-language",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Learning Japanese",
+                            "description": "Self-studying Japanese language",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Apprentissage du japonais",
+                            "description": "Apprentissage autonome de la langue japonaise",
+                            "level": null
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-futbol",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Football",
+                            "description": "Playing football with friends",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Football",
+                            "description": "Football entre amis",
+                            "level": null
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

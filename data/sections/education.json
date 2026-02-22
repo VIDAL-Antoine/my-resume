@@ -1,0 +1,115 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {
+                        "year": 2018,
+                        "month": 8
+                    },
+                    "dateEnd": {
+                        "year": 2023,
+                        "month": 7
+                    },
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-graduation-cap",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Computer Science Engineering Degree",
+                            "description": "5-year engineering program covering a broad range of computer science disciplines.",
+                            "province": "Vélizy",
+                            "country": "France",
+                            "institution": "ISTY, UVSQ Paris-Saclay",
+                            "tags": [
+                                "Object-oriented programming",
+                                "C",
+                                "Python",
+                                "Java",
+                                "Linux",
+                                "Operating Systems",
+                                "Databases",
+                                "Computer Architecture",
+                                "Software Architecture",
+                                "Algorithms",
+                                "Compilers",
+                                "Algebra"
+                            ]
+                        },
+                        "fr": {
+                            "title": "Diplôme d'Ingénieur Informatique",
+                            "description": "Programme d'ingénieur de 5 ans couvrant un large éventail de disciplines informatiques.",
+                            "province": "Vélizy",
+                            "country": "France",
+                            "institution": "ISTY, UVSQ Paris-Saclay",
+                            "tags": [
+                                "Programmation orientée objet",
+                                "C",
+                                "Python",
+                                "Java",
+                                "Linux",
+                                "Systèmes d'exploitation",
+                                "Bases de données",
+                                "Architecture des ordinateurs",
+                                "Architecture logicielle",
+                                "Algorithmique",
+                                "Compilateurs",
+                                "Algèbre"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": {
+                        "year": 2022,
+                        "month": 8
+                    },
+                    "dateEnd": {
+                        "year": 2023,
+                        "month": 7
+                    },
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-graduation-cap",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Master's in High Performance Computing",
+                            "description": "Double degree obtained in parallel with the Engineering degree, focusing on large-scale computing.",
+                            "province": "Guyancourt",
+                            "country": "France",
+                            "institution": "LI-PaRAD, UVSQ Paris-Saclay",
+                            "tags": [
+                                "Big Data",
+                                "Parallelism",
+                                "Multithreading",
+                                "Code Optimization"
+                            ]
+                        },
+                        "fr": {
+                            "title": "Master Calcul Haute Performance",
+                            "description": "Double diplôme obtenu en parallèle du cursus ingénieur, axé sur le calcul à grande échelle.",
+                            "province": "Guyancourt",
+                            "country": "France",
+                            "institution": "LI-PaRAD, UVSQ Paris-Saclay",
+                            "tags": [
+                                "Big Data",
+                                "Parallélisme",
+                                "Multithreading",
+                                "Optimisation de code"
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

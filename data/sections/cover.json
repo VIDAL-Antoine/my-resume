@@ -1,0 +1,47 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleProfile",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "contact_list_ids": [
+                    "address",
+                    "email",
+                    "phone"
+                ],
+                "contact_circles_ids": [
+                    "linkedin",
+                    "github",
+                    "download_resume"
+                ]
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "locales": {
+                        "en": {
+                            "description": "Passionate about computer science and software development, I constantly seek to deepen my understanding of technologies and modern systems."
+                        },
+                        "fr": {
+                            "description": "Passionné par l'informatique et le développement logiciel, je cherche constamment à approfondir ma compréhension des technologies et du fonctionnement des systèmes actuels."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "locales": {
+                        "en": {
+                            "description": "I am enthusiastic about contributing to all aspects of development, whether on the <strong>front-end</strong> or <strong>back-end</strong>."
+                        },
+                        "fr": {
+                            "description": "Je suis enthousiaste à l'idée de contribuer à tous les aspects du développement, que ce soit en <strong>front-end</strong> ou en <strong>back-end</strong>."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

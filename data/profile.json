@@ -1,0 +1,79 @@
+{
+    "name": "VIDAL Antoine",
+    "profilePictureUrl": "images/pictures/profile-square.jpg",
+    "locales": {
+        "en": {
+            "credits": "",
+            "role": "Full-stack Software Engineer"
+        },
+        "fr": {
+            "credits": "",
+            "role": "Ingénieur développeur full-stack"
+        }
+    },
+    "contactOptions": [
+        {
+            "id": "address",
+            "faIcon": "fa-regular fa-map",
+            "href": null,
+            "locales": {
+                "en": {
+                    "value": "Massy - France",
+                    "valueShort": "Massy - France"
+                },
+                "fr": {
+                    "value": "Massy - France",
+                    "valueShort": "Massy - France"
+                }
+            }
+        },
+        {
+            "id": "email",
+            "value": "avidal78390@gmail.com",
+            "valueShort": "avidal78390@gmail.com",
+            "faIcon": "fa-regular fa-envelope",
+            "href": "mailto:avidal78390@gmail.com",
+            "copy": true
+        },
+        {
+            "id": "github",
+            "value": "@VIDAL-Antoine",
+            "valueShort": "@VIDAL-Antoine",
+            "faIcon": "fa-brands fa-github",
+            "href": "https://github.com/VIDAL-Antoine",
+            "copy": false
+        },
+        {
+            "id": "linkedin",
+            "value": "@VIDAL-Antoine",
+            "valueShort": "@VIDAL-Antoine",
+            "faIcon": "fa-brands fa-linkedin",
+            "href": "https://www.linkedin.com/in/antoine-vidal-40419822a/",
+            "copy": false
+        },
+        {
+            "id": "phone",
+            "value": "+33 6 49 42 42 23",
+            "valueShort": "+33649424223",
+            "faIcon": "fa-solid fa-phone",
+            "href": null,
+            "copy": true
+        },
+        {
+            "id": "download_resume",
+            "value": "",
+            "valueShort": "",
+            "faIcon": "fa-solid fa-file-pdf",
+            "href": null,
+            "locales": {
+                "en": {
+                    "href": "/pdf/CV_VIDAL_Antoine_en.pdf"
+                },
+                "fr": {
+                    "href": "/pdf/CV_VIDAL_Antoine_fr.pdf"
+                }
+            },
+            "copy": false
+        }
+    ]
+}

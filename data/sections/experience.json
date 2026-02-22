@@ -1,0 +1,224 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {
+                        "year": 2024,
+                        "month": 3
+                    },
+                    "dateEnd": {
+                        "year": 2025,
+                        "month": 4
+                    },
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-laptop-code",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Full-stack Developer",
+                            "description": "Redesign of the company's internal data storage website.",
+                            "list": {
+                                "title": "Key Responsibilities:",
+                                "items": [
+                                    "Development of UI pages and components with <strong>Vue.js</strong> to improve ergonomics and user experience",
+                                    "Design and development of REST APIs with <strong>Node.js</strong>, and database modeling and management with Sequelize",
+                                    "Application maintenance: bug fixing, refactoring, and improvement of existing code quality",
+                                    "Collaboration with the product and technical team: GitLab code reviews, Jira ticket management, and technical documentation"
+                                ]
+                            },
+                            "province": "Montrouge",
+                            "country": "France",
+                            "institution": "4MTec · Qarnot",
+                            "tags": [
+                                "Vue.js",
+                                "Node.js",
+                                "Sequelize",
+                                "MariaDB",
+                                "Javascript",
+                                "Docker",
+                                "Git",
+                                "GitLab"
+                            ]
+                        },
+                        "fr": {
+                            "title": "Développeur full-stack",
+                            "description": "Refonte du site stockant les données internes de l'entreprise.",
+                            "list": {
+                                "title": "Missions :",
+                                "items": [
+                                    "Développement de pages et composants UI avec <strong>Vue.js</strong> pour améliorer l'ergonomie et l'expérience utilisateur",
+                                    "Conception et développement d'API REST avec <strong>Node.js</strong>, ainsi que modélisation et gestion de la base de données avec Sequelize",
+                                    "Maintenance applicative : correction de bugs, refactorisation et amélioration de la qualité du code existant",
+                                    "Collaboration avec l'équipe produit et technique : revues de code GitLab, gestion des tickets Jira et documentation technique"
+                                ]
+                            },
+                            "province": "Montrouge",
+                            "country": "France",
+                            "institution": "4MTec · Qarnot",
+                            "tags": [
+                                "Vue.js",
+                                "Node.js",
+                                "Sequelize",
+                                "MariaDB",
+                                "Javascript",
+                                "Docker",
+                                "Git",
+                                "GitLab"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": {
+                        "year": 2025,
+                        "month": 5
+                    },
+                    "dateEnd": {
+                        "year": 2025,
+                        "month": 8
+                    },
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-laptop-code",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Full-stack Developer",
+                            "description": "Development of a high-performance video analysis software (up to 1500 fps) for industrial image analysis.",
+                            "list": {
+                                "title": "Key Responsibilities:",
+                                "items": [
+                                    "Implementation of a video recording module with fine-grained control over camera parameters (resolution, frame rate, recording duration, lighting, etc.)",
+                                    "Performance optimization for very high-speed video stream processing",
+                                    "Frame-by-frame video playback enabling detailed analysis impossible with standard video players",
+                                    "Design of video annotation tools (drawing, length and angle measurements, object tracking, etc.) directly on videos"
+                                ]
+                            },
+                            "province": "Montrouge",
+                            "country": "France",
+                            "institution": "4MTec · Coda Systèmes",
+                            "tags": [
+                                "Python",
+                                "OpenCV",
+                                "PyQt6",
+                                "Vimba",
+                                "Linux",
+                                "Git",
+                                "Github"
+                            ]
+                        },
+                        "fr": {
+                            "title": "Développeur full-stack",
+                            "description": "Développement d'un logiciel d'analyse vidéo haute performance (jusqu'à 1500 fps) destiné à l'analyse d'images industrielles.",
+                            "list": {
+                                "title": "Missions :",
+                                "items": [
+                                    "Réalisation d'un module d'enregistrement vidéo avec contrôle fin des paramètres de la caméra (résolution, fréquence d'images, durée d'enregistrement, éclairage, etc.)",
+                                    "Travail sur l'optimisation des performances pour le traitement de flux vidéo très haute vitesse",
+                                    "Lecture des vidéos avec traitement image par image, permettant une analyse détaillée impossible avec des lecteurs vidéos classiques",
+                                    "Conception d'outils d'annotation vidéo (dessin, mesures de longueur et d'angle, tracking d'objets, etc.) directement sur les vidéos"
+                                ]
+                            },
+                            "province": "Montrouge",
+                            "country": "France",
+                            "institution": "4MTec · Coda Systèmes",
+                            "tags": [
+                                "Python",
+                                "OpenCV",
+                                "PyQt6",
+                                "Vimba",
+                                "Linux",
+                                "Git",
+                                "Github"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "dateStart": {
+                        "year": 2025,
+                        "month": 9
+                    },
+                    "dateEnd": {
+                        "string": "now"
+                    },
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-laptop-code",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Full-stack Developer",
+                            "description": "Development of an autonomous gantry equipped with cameras and a screen, enabling real-time detection of Personal Protective Equipment (PPE) worn by employees using an AI model.",
+                            "list": {
+                                "title": "Key Responsibilities:",
+                                "items": [
+                                    "Training an AI model (<strong>YOLO</strong>) for PPE detection (helmet, vest, earplugs, safety goggles, etc.)",
+                                    "Integration of the AI model into a physical gantry: real-time video processing via the gantry's cameras",
+                                    "Development of an interface displaying worn and missing PPE on the gantry's screen after AI analysis",
+                                    "Design of a database for logging, tracking, and compliance monitoring of employee passages"
+                                ]
+                            },
+                            "province": "Montrouge",
+                            "country": "France",
+                            "institution": "4MTec · Coda Systèmes",
+                            "tags": [
+                                "Vue.js",
+                                "Javascript",
+                                "Ultralytics (YOLO)",
+                                "OpenCV",
+                                "Google Cloud Storage",
+                                "FastAPI",
+                                "Python",
+                                "PostgreSQL",
+                                "Linux",
+                                "Bash",
+                                "Git",
+                                "Github"
+                            ]
+                        },
+                        "fr": {
+                            "title": "Développeur full-stack",
+                            "description": "Réalisation d'un portique autonome équipé de caméras et d'un écran, permettant de détecter en temps réel les Équipements de Protection Individuelle (EPI) portés par les employés grâce à un modèle d'IA.",
+                            "list": {
+                                "title": "Missions :",
+                                "items": [
+                                    "Entraînement d'un modèle d'IA (<strong>YOLO</strong>) pour la détection d'EPI (casque, gilet, bouchons d'oreille, lunettes de protection, etc.)",
+                                    "Intégration du modèle d'IA dans un portique physique : traitement vidéo en temps réel via les caméras du portique",
+                                    "Développement d'une interface affichant les EPI portés et manquants sur l'écran du portique après analyse de l'IA",
+                                    "Conception d'une base de données pour l'historisation, le suivi et la conformité des passages des employés"
+                                ]
+                            },
+                            "province": "Montrouge",
+                            "country": "France",
+                            "institution": "4MTec · Coda Systèmes",
+                            "tags": [
+                                "Vue.js",
+                                "Javascript",
+                                "Ultralytics (YOLO)",
+                                "OpenCV",
+                                "Google Cloud Storage",
+                                "FastAPI",
+                                "Python",
+                                "PostgreSQL",
+                                "Linux",
+                                "Bash",
+                                "Git",
+                                "Github"
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

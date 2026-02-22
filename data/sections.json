@@ -1,0 +1,109 @@
+{
+    "sections": [
+        {
+            "id": "about",
+            "categoryId": "home",
+            "jsonPath": "/sections/cover.json",
+            "faIcon": "fa-solid fa-address-card",
+            "type": "centered",
+            "locales": {
+                "en": {
+                    "title": "Welcome to *my resume!*",
+                    "title_short": "Welcome!",
+                    "description": null,
+                    "nav_label": "About"
+                },
+                "fr": {
+                    "title": "Bienvenue sur *mon CV!*",
+                    "title_short": "Bienvenue !",
+                    "description": null,
+                    "nav_label": "À propos"
+                }
+            }
+        },
+        {
+            "id": "education",
+            "categoryId": "background",
+            "jsonPath": "/sections/education.json",
+            "faIcon": "fa-solid fa-graduation-cap",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Education* Background",
+                    "title_short": null,
+                    "description": null,
+                    "nav_label": "Education"
+                },
+                "fr": {
+                    "title": "Parcours *Éducatif*",
+                    "title_short": null,
+                    "description": null,
+                    "nav_label": "Éducation"
+                }
+            }
+        },
+        {
+            "id": "experience",
+            "categoryId": "background",
+            "jsonPath": "/sections/experience.json",
+            "faIcon": "fa-solid fa-briefcase",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Professional* Experience",
+                    "title_short": null,
+                    "description": null,
+                    "nav_label": "Experience"
+                },
+                "fr": {
+                    "title": "Expériences *Professionnelles*",
+                    "title_short": null,
+                    "description": null,
+                    "nav_label": "Expérience"
+                }
+            }
+        },
+        {
+            "id": "languages",
+            "categoryId": "more",
+            "jsonPath": "/sections/languages.json",
+            "faIcon": "fa-solid fa-earth-europe",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Languages*",
+                    "title_short": null,
+                    "description": null,
+                    "nav_label": "Languages"
+                },
+                "fr": {
+                    "title": "*Langues*",
+                    "title_short": null,
+                    "description": null,
+                    "nav_label": "Langues"
+                }
+            }
+        },
+        {
+            "id": "hobbies",
+            "categoryId": "more",
+            "jsonPath": "/sections/hobbies.json",
+            "faIcon": "fa-solid fa-heart",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Hobbies*",
+                    "title_short": null,
+                    "description": null,
+                    "nav_label": "Hobbies"
+                },
+                "fr": {
+                    "title": "*Hobbies*",
+                    "title_short": null,
+                    "description": null,
+                    "nav_label": "Hobbies"
+                }
+            }
+        }
+    ]
+}
